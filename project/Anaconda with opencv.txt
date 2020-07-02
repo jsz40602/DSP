@@ -1,0 +1,8 @@
+1、 Install anaconda with python3.7.7
+
+2、 Downgrades anaconda
+conda config --set allow_conda_downgrades true
+conda install conda=4.6.14
+
+3、 Install opencv
+conda install -c menpo opencv
